@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Math Calculator</string>
+    <string name="plus">+</string>
+    <string name="xc">+</string>
+</resources>
